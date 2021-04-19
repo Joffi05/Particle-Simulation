@@ -1,2 +1,2 @@
 # Particle-Simulation
-A C# program which simulates Particle Collisions.
+A C#, Windows Froms program which simulates Particle Collisions.
